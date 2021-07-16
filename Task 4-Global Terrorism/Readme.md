@@ -1,5 +1,5 @@
 Task:
-Exploratory Data Analysis - Terrorism
+Exploratory Data Analysis - Terrorism<br>
 Problem Statement
 <ul>
 <li>Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’</li>
